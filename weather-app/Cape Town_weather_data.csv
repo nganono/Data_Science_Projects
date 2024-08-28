@@ -1,0 +1,20 @@
+Cape Town,Values
+Temperature,15.78C
+Pressure,1013hPa
+Humidity,92%
+Weather Description,light rain
+
+Historical weather data (last 7 days):
+Date,Temperature(C)
+2024-04-07,16.53
+2024-04-06,20.16
+2024-04-05,17.24
+2024-04-04,19.18
+2024-04-03,20.05
+2024-04-02,19.21
+2024-04-01,18.26
+
+Statistics,Temperature(C)
+Average Temperature,18.66
+Median Temperature,19.18
+Mode Temperature,16.53
